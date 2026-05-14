@@ -1,19 +1,35 @@
-# Loan Approval Prediction
+# Loan Approval Prediction System
 
-Machine Learning project for predicting loan approval.
+A Machine Learning-based web application that predicts loan approval outcomes using applicant financial details, credit history, and asset-related information. The project combines data preprocessing, feature engineering, fraud-risk analysis, and classification algorithms to provide accurate and efficient loan approval predictions.
 
 ## Features
-- Data preprocessing
-- Model training
-- Evaluation
-- Prediction
+- Loan approval prediction using ML models
+- Data preprocessing and feature engineering
+- Credit score and fraud-risk evaluation
+- Real-time prediction through Streamlit interface
+- Automated input handling and model optimization
+- Comparative analysis of Logistic Regression and Random Forest models
 
 ## Technologies Used
 - Python
+- Scikit-learn
 - Pandas
 - NumPy
-- Scikit-learn
+- Streamlit
 - Matplotlib
+
+## Machine Learning Models
+- Logistic Regression
+- Random Forest Classifier
+
+## Project Structure
+
+```text
+data/          -> dataset files
+notebooks/     -> experimentation and analysis
+src/           -> application and ML source code
+models/        -> trained model files
+outputs/       -> generated reports and plots
 
 ## Installation
 
