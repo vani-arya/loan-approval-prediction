@@ -30,6 +30,7 @@ notebooks/     -> experimentation and analysis
 src/           -> application and ML source code
 models/        -> trained model files
 outputs/       -> generated reports and plots
+```
 
 ## Installation
 
